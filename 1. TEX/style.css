@@ -1,0 +1,13 @@
+body {
+font-size: 50px;
+font-family: serif;
+
+}
+
+.tex {
+	letter-spacing: -0.15em;
+}
+
+.tex span {
+	vertical-align: -0.2em;
+}
