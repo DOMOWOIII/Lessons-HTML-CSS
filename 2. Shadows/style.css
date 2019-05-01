@@ -1,0 +1,19 @@
+body {
+	margin: 0;
+
+}
+
+.container {
+	width: 58px;
+	height: 58px;
+	margin: 0 auto;
+	margin-top: 300px;
+	border: 1px solid #777;
+	box-shadow: inset 0px 0px 6px grey;
+
+
+}
+
+img {
+	margin: 4px;
+}
