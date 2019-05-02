@@ -1,0 +1,21 @@
+body {
+	margin: 0;
+	font-family: Impact;
+	font-size: 70px;
+	color: white;
+
+}
+
+.container {
+	width: auto;
+	height: 150px;
+	background-color: red;
+	padding-left: 20px;
+}
+
+.container span {
+	padding-bottom: 0;
+	position: relative;
+	bottom: -78px;
+
+}
